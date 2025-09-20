@@ -4,7 +4,7 @@ PATH
     auto_html (2.2.1)
       gemoji (~> 4.0.0.rc2)
       redcarpet (~> 3.5)
-      rexml (~> 3.3.9)
+      rexml (~> 3.4.4)
       rinku (~> 2.0)
 
 GEM
@@ -24,7 +24,7 @@ GEM
     rake (13.0.6)
     redcarpet (3.6.0)
     regexp_parser (2.9.2)
-    rexml (3.3.9)
+    rexml (3.4.4)
     rinku (2.0.6)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
